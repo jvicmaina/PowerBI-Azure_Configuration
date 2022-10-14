@@ -1,4 +1,4 @@
-# PowerBI-Azure_python-Configuration
+# PowerBI-Azure_Python-Configuration
 Configuring azure and powerBI 
 The following is the link to my github repository that will take you through the necesary steps 
 
